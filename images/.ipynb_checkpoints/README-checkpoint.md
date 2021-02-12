@@ -1,0 +1,1 @@
+All external images used are stored in this directory.
