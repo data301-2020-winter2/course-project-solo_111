@@ -1,1 +1,1 @@
-All of my drafts/work in progress Jupyter Notebooks are stored in this directory.
+**All of my drafts/work in progress Jupyter Notebooks are stored in this directory.**

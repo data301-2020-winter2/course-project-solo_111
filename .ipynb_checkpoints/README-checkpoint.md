@@ -16,11 +16,11 @@ With this analytics project, I hope to find out what makes a chocolate bar good 
 I obtained my project's dataset from Kaggle, a community driven data science company. My chosen dataset contains a multitude of expert ratings that span over 1700 types of chocolate bars, as well as additional information about the chocolate including region made and percentage of cocoa among other things. This dataset is based on reviews collected in from 2006-2017. The purpose of this dataset is for fun and is inspired by questions like "What company makes the best chocolate?" The subjective ratings within this dataset were made by Brady Brelinski, Founding Member of the Manhattan Chocolate Society. The objective data in this dataset was compiled by Dr. Rachael Tatman.
 
 The following list was obtained from kaggle and gives insight towards Brelinski's ratings:
-5 = Elite (Transcending beyond the ordinary limits)
-4 = Premium (Superior flavor development, character and style)
-3 = Satisfactory(3.0) to praiseworthy(3.75) (well made with special qualities)
-2 = Disappointing (Passable but contains at least one significant flaw)
-1 = Unpleasant (mostly unpalatable)
+- 5 = Elite (Transcending beyond the ordinary limits)
+- 4 = Premium (Superior flavor development, character and style)
+- 3 = Satisfactory(3.0) to praiseworthy(3.75) (well made with special qualities)
+- 2 = Disappointing (Passable but contains at least one significant flaw)
+- 1 = Unpleasant (mostly unpalatable)
 
 ## Team Members
 
@@ -28,4 +28,4 @@ The following list was obtained from kaggle and gives insight towards Brelinski'
 
 ## References
 
-https://www.kaggle.com/rtatman/chocolate-bar-ratings
+[Chocolate Bar Dataset](https://www.kaggle.com/rtatman/chocolate-bar-ratings)
